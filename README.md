@@ -25,6 +25,7 @@ Este projeto é uma calculadora científica responsiva e moderna desenvolvida co
   - Soma (+), subtração (-), multiplicação (*) e divisão (/).
   - Botão de apagar (⌫), limpar cálculo (C) e limpar display (AC).
   - Uso de números decimais.
+ 
 - **Científicas**:
   - Porcentagem (%).
   - Expoente ao quadrado (x²) e raiz quadrada (√).
@@ -37,7 +38,7 @@ Este projeto é uma calculadora científica responsiva e moderna desenvolvida co
 ## Instalação
 Para visualizar a calculadora em sua máquina local, siga os passos abaixo:
 1. Clone este repositório para o seu computador.
-   (https://github.com/amandalordello/Projeto-CIMATEC-Jr..git)
+   ([https://github.com/amandalordello/Projeto-CIMATEC-Jr..git](https://github.com/amandalordello/Calculadora.git))
 2. Abra o arquivo calculadora.html em seu navegador web preferido.
 
 ## Tecnologias Utilizadas
